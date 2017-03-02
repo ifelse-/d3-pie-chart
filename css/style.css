@@ -1,0 +1,19 @@
+
+
+.arc text {
+  font: bold 15px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.arc2 text {
+  font: bold 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc2 path {
+  stroke: #fff;
+}
